@@ -7,4 +7,4 @@ Describe your project in a standardized structure that works as the single point
 
 **SANDOBA//QUICKSTART for Symfony** also provides you with a library of utility methods which make iterating your project on the basis of the generated code a breeze. While you are free to use any normal code for Symfony/Doctrine/PHP etc. just as before, these utility methods as well as additional CLI commands, Twig functions/filters give you access to more information about the system and enable you to to get your work done faster.
 
-**More information will be added here soon.**
+**More information will be added here soon. Release scheduled for Q4/2023.**
